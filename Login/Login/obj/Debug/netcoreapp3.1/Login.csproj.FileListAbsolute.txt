@@ -1,0 +1,16 @@
+D:\Học\Công cụ và môi trường phát triển phần mềm\Login\TrangLogin\Login\Login\bin\Debug\netcoreapp3.1\Login.exe
+D:\Học\Công cụ và môi trường phát triển phần mềm\Login\TrangLogin\Login\Login\bin\Debug\netcoreapp3.1\Login.deps.json
+D:\Học\Công cụ và môi trường phát triển phần mềm\Login\TrangLogin\Login\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.json
+D:\Học\Công cụ và môi trường phát triển phần mềm\Login\TrangLogin\Login\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.dev.json
+D:\Học\Công cụ và môi trường phát triển phần mềm\Login\TrangLogin\Login\Login\bin\Debug\netcoreapp3.1\Login.dll
+D:\Học\Công cụ và môi trường phát triển phần mềm\Login\TrangLogin\Login\Login\bin\Debug\netcoreapp3.1\Login.pdb
+D:\Học\Công cụ và môi trường phát triển phần mềm\Login\TrangLogin\Login\Login\obj\Debug\netcoreapp3.1\Login.csproj.AssemblyReference.cache
+D:\Học\Công cụ và môi trường phát triển phần mềm\Login\TrangLogin\Login\Login\obj\Debug\netcoreapp3.1\Login.Form1.resources
+D:\Học\Công cụ và môi trường phát triển phần mềm\Login\TrangLogin\Login\Login\obj\Debug\netcoreapp3.1\Login.csproj.GenerateResource.cache
+D:\Học\Công cụ và môi trường phát triển phần mềm\Login\TrangLogin\Login\Login\obj\Debug\netcoreapp3.1\Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học\Công cụ và môi trường phát triển phần mềm\Login\TrangLogin\Login\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfoInputs.cache
+D:\Học\Công cụ và môi trường phát triển phần mềm\Login\TrangLogin\Login\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfo.cs
+D:\Học\Công cụ và môi trường phát triển phần mềm\Login\TrangLogin\Login\Login\obj\Debug\netcoreapp3.1\Login.csproj.CoreCompileInputs.cache
+D:\Học\Công cụ và môi trường phát triển phần mềm\Login\TrangLogin\Login\Login\obj\Debug\netcoreapp3.1\Login.dll
+D:\Học\Công cụ và môi trường phát triển phần mềm\Login\TrangLogin\Login\Login\obj\Debug\netcoreapp3.1\Login.pdb
+D:\Học\Công cụ và môi trường phát triển phần mềm\Login\TrangLogin\Login\Login\obj\Debug\netcoreapp3.1\Login.genruntimeconfig.cache
